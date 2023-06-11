@@ -163,7 +163,8 @@ nav .enlaces a{
   text-decoration: none;
   border-bottom: 3px solid transparent;
   color: inherit;
-  background-color: ;
+  background-color: 0;
+
 }
 
 nav .enlaces a:hover{
